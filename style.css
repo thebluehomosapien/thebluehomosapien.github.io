@@ -12,15 +12,6 @@ body {
   z-index: 10;
 }
 
-<section class="about">
-  <h2>About Me</h2>
-  <p>I build things with Python, JavaScript, and C++.</p>
-</section>
-
-<section class="projects">
-  <h2>Projects</h2>
-</section>
-
 .about {
   background: #fdd9a0;
   padding: 60px 20px;
@@ -30,7 +21,6 @@ body {
   background: #ffffff;
   padding: 60px 20px;
 }
-
 
 h1 {
   font-size: 3rem;
